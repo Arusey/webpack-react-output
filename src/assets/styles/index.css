@@ -1,0 +1,24 @@
+.message {
+  background-color: #f08080;
+  margin: auto !important;
+  height: 100% !important;
+}
+.message-part {
+  background-color: #f08080;
+  width: 80% !important;
+  margin-bottom: 60% !important;
+  padding: 10% !important;
+}
+.button {
+  text-align: center !important;
+}
+.loginform {
+  width: 50% !important;
+  margin: 3% auto !important;
+}
+.login-header {
+  text-align: center !important;
+}
+.message-header {
+  text-align: center !important;
+}

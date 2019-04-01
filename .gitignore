@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# dotenv config file
+.env
+# production
+/build
+
+# misc
+.DS_Store
+
+# logs
+npm-debug.log*
